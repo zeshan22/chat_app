@@ -1,6 +1,6 @@
 # chat_app
 
-A new chat application.
+I had built Fully Functioning Chat App with flutter & Firebase.I had used Firebase Auth, Firebase Firestore, Shared Preference to keep the user logged in, and Stream builder.User can search friends and message them. Chat Room is also created.
 
 ## Getting Started
 
